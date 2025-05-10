@@ -50,7 +50,7 @@ My goal is to continue developing a hybrid and multidisciplinary approach, combi
 - Shiny projects for Python: interactive data applications.
 - Programming challenges: exercises to continue learning and improving skills.
 - Data analysis: scripts and practical projects with Pandas.
-- 
+  
 ## 💬 Let's connect.
 
 If you share similar interests or have an idea or project in mind, don't hesitate to contact me. I'd love to meet people who are also on the path to learning and collaborating.
